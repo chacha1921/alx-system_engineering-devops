@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#current pid
+# Script to display program PID
 
-echo $$
+echo $BASHPID #can also be $$

@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#display pid of a bash
+# Script to search and display lines containing the bash word
 
-pgrep "bash"
+pgrep -l "bash"
